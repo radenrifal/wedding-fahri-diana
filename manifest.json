@@ -1,0 +1,22 @@
+{
+  "name": "Sindy & Rifal",
+  "short_name": "Sindy & Rifal",
+  "lang": "id-ID",
+  "start_url": "index.html?launcher=true",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#304299",
+  "background_color": "#304299",
+  "icons": [
+    {
+      "src": "sr-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "sr-icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
